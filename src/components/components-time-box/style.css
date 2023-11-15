@@ -1,0 +1,18 @@
+.time-card-container{
+    display: inline-flex;
+    height: 100px;
+    width: 80px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0,0,0, 0.1);
+    margin: 10px;
+}
+
+.time-seperator{
+
+}
+
+.time-card-text{
+
+}
